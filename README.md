@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello 👋 
 
-<!--
-**ImSh4dow/ImSh4dow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
 
-Here are some ideas to get you started:
+-  **Learning :**JavaScript, Python
+-  **Languages :** HTML, CPP
+-  **Hobbies :** Articles & Music :headphones:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![github stats](https://github-readme-stats.vercel.app/api?username=ImSh4dow&show_icons=true)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+⭐️ From [ImSh4dow](https://github.com/ImSh4dow)
+
