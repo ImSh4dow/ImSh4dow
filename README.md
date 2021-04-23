@@ -3,9 +3,9 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :**JavaScript, Python
--  **Languages :** HTML, CPP
--  **Hobbies :** Articles & Music :headphones:
+-  **Learning :** JavaScript, Python 🛠️
+-  **Languages :** HTML, CPP ⌨️
+-  **Hobbies :** Gaming & Programming 🎮
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ImSh4dow&show_icons=true)
