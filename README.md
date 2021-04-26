@@ -12,7 +12,6 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Gowixx" alt="Profile Views">
+⭐️ From [ImSh4dow](https://github.com/ImSh4dow) <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ImSh4dow" alt="Profile Views">
   </p>
-⭐️ From [ImSh4dow](https://github.com/ImSh4dow)
